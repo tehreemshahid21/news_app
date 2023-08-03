@@ -1,0 +1,39 @@
+.container{
+    height: 14vh;
+    width: 100%;
+    background-color: #6b6b9f;
+    position: relative;
+}
+
+.icon{
+    font-size: 40px;
+    position: absolute;
+    top: 25px;
+    left: 70px;
+}
+
+.logo{
+    font-size: xxx-large;
+    font-style: oblique;
+    font-family: serif;
+    color: white;
+    margin: 20px;
+}
+
+.list a{
+    color: white;
+    text-decoration: none;
+    padding: 85px;
+    font-size: 25px;
+    cursor: pointer;
+    font-family: emoji;
+}
+.list{
+    position: absolute;
+    right: 0px;
+    top: 40px;
+}
+
+a:hover{
+    color: black;
+}
