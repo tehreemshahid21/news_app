@@ -1,0 +1,25 @@
+.category-list {
+    background: #6b6b9f;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  li {
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: emoji;
+  }
+  
+  li:hover {
+    background-color: black;
+  }
+  
